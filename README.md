@@ -31,10 +31,12 @@ This repository contains my personal notes, exercises, and key takeaways from fo
 
 <img width="1200" height="730" alt="1000004807" src="https://github.com/user-attachments/assets/fa11c48b-1ba0-4fe0-ba15-8d9fa256a763" />
 
+<img width="6815" height="4149" alt="react-foundations-certificate-1" src="https://github.com/user-attachments/assets/78453d7e-bdfb-4c9f-a16b-d072d191602c" />
+
 
 ## 🚀 Why This Repo?
 
-This is not a project you run—this is a learning showcase.  
+This is not a project you run this is a learning showcase.  
 I created this repository to:
 - Document my learning path
 - Help others looking to understand what the courses offer
